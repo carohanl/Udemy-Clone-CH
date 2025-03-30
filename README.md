@@ -10,7 +10,7 @@ This repository contains a clone of Udemy-clone built for learning and demonstra
 - Built with CSS
 
 ## 🚀 Live Demo
-[]
+[https://carohanl.github.io/Udemy-Clone-CH/]
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript
